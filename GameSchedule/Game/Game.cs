@@ -14,7 +14,6 @@ namespace GameSchedule.Game
 
         public string Name { get; set; } = string.Empty;
 
-        public long PlayerId { get; set; }
         [InverseProperty(nameof(Player.Game))]
         public ICollection<Player> Players { get; set; } = new List<Player>();
 

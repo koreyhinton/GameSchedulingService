@@ -8,6 +8,7 @@ public class Client
     public long Id { get; set; }
 
     public string DisplayName { get; set; } = string.Empty;
+    public string TeamName { get; set; } = string.Empty;
 
     public long ClientSetId { get; set; }
     [ForeignKey(nameof(ClientSetId))]
