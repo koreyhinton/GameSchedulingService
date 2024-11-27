@@ -1,10 +1,10 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="750" viewBox="0,0,750,750">
-    <rect x="0" y="0" width="750" height="750" fill="white" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="750" height="750" viewBox="0,0,750,750">
+    <rect x="0" y="0" width="750" height="750" fill="white" id="rect8"/>
     <circle cx="375" cy="303" r="52" fill="transparent" stroke="black" stroke-width="1" stroke-linecap="round" stroke-dasharray="0 10 0" stroke-dashoffset="100" stroke-mitterlimit="0" id="circle1"/>
     <line x1="375" y1="27" x2="375" y2="243" stroke="black" stroke-width="1" stroke-dasharray="0 10 0" id="line1"/>
     <line x1="377" y1="354" x2="377" y2="570" stroke="black" stroke-width="1" stroke-dasharray="0 10 0" id="line2"/>
-    <text x="357" y="294" fill="black" id="text1">Game</text>
-    <text x="339" y="318" fill="black" id="text2">Schedule</text>
+    <text x="355" y="294" fill="black" id="text1">Game</text>
+    <text x="347" y="318" fill="black" id="text2">Schedule</text>
     <polyline points="438 297 498 297 488 287 498 297 488 307" stroke="black" fill="transparent" stroke-width="1" id="polyline1"/>
     <polyline points="309 297 250 297 260 287 250 297 260 307" stroke="black" fill="transparent" stroke-width="1" id="polyline2"/>
     <rect rx="0" ry="0" x="508" y="271" width="86" height="65" stroke="black" fill="transparent" stroke-width="1" id="rect1"/>
@@ -19,8 +19,8 @@
     <text x="482" y="425" fill="black" id="text6">Client</text>
     <text x="416" y="367" fill="black" id="text7">scheduling</text>
     <text x="417" y="383" fill="black" id="text8">client</text>
-    <polyline points="591 416 558 416 568 406 558 416 568 426" stroke="black" fill="transparent" stroke-width="1" id="polyline5"/>
-    <polyline points="560 416 610 416 600 406 610 416 600 426" stroke="black" fill="transparent" stroke-width="1" id="polyline6"/>
+    <polyline points="616 416 573 416 583 406 573 416 583 426" stroke="black" fill="transparent" stroke-width="1" id="polyline5"/>
+    <polyline points="583 416 561 416 571 406 561 416 571 426" stroke="black" fill="transparent" stroke-width="1" id="polyline6"/>
     <polyline points="604 416 623 416 613 406 623 416 613 426" stroke="black" fill="transparent" stroke-width="1" id="polyline7"/>
     <rect rx="0" ry="0" x="181" y="272" width="68" height="51" stroke="black" fill="transparent" stroke-width="1" id="rect4"/>
     <text x="195" y="300" fill="black" id="text9">Game</text>
